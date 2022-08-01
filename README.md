@@ -2,7 +2,7 @@
 
 ### View it [Here]( https://guillaumeauger85.github.io/Museum-of-Candy/)
 
-![htmlCSSBootstrap](https://user-images.githubusercontent.com/49698792/181597550-b4822170-2807-4d3b-ab05-0a24c37798c2.png)
+![htmlCSSBootstrap](https://user-images.githubusercontent.com/49698792/182229365-02e5c9e0-f75b-442d-a040-8fec2f3016e1.png)
 
 Bootstrap framework project from [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp/) course.
 
