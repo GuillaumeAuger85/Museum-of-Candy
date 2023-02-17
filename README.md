@@ -1,4 +1,4 @@
-# Museum-of-Candy
+# Museum of Candy
 
 ### View it [Here]( https://guillaumeauger85.github.io/Museum-of-Candy/)
 
